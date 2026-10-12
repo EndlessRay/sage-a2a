@@ -1,3 +1,5 @@
+> **Moved.** This repository now lives in [github.com/EndlessRay/asha-benchmarks](https://github.com/EndlessRay/asha-benchmarks/tree/main/a2a/sage) under a2a/sage/, with its full commit history. This copy is archived read-only so published links keep working.
+
 # Sage — Nutrition & Wellness by DNAi Systems
 
 **AI nutrition and wellness agent via the [A2A protocol](https://a2aproject.github.io/A2A/).** Evidence-grounded nutrition guidance, gut-brain axis insights, therapeutic wellness. Named for both the wise elder and the healing herb (Salvia officinalis).
